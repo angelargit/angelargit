@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Angel | Email" width="22px" src="pndrmre@gmail.com" />][email\\
+[pndrmre@gmail.com](url)
